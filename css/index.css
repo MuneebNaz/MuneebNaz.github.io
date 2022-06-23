@@ -1,0 +1,117 @@
+body {
+  background-color: black;
+}
+.nav-link {
+  text-decoration: none;
+  border: 3px solid transparent;
+  color: orange;
+}
+
+.nav-link:hover {
+  border-bottom: 2px solid orange;
+  text-decoration: orange;
+  transition: 0.6s ease;
+  color: orange;
+}
+
+.main_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-1 {
+  border-radius: 10% 30% 20% 70%;
+  outline: 10px solid rgb(0, 223, 197);
+  border: 5px solid black;
+  height: 80vh;
+}
+
+h2 {
+  font-size: 4rem;
+  color: rgb(0, 223, 197);
+}
+
+.img-2 {
+  border-radius: 30%;
+  outline: 10px solid rgb(0, 223, 197);
+  border: 5px solid black;
+  height: 30rem;
+}
+#about-me {
+  background-color: darkcyan;
+  border-radius: 5rem;
+  border: 10px solid rgb(0, 223, 197);
+}
+.btn {
+  background-color: darkcyan;
+  border: 1px solid black;
+}
+.card {
+  position: static;
+  margin-top: 30px;
+  border: 8px solid darkcyan;
+  border-bottom: 15px solid rgb(0, 223, 197);
+  border-top: 15px solid rgb(0, 223, 197);
+}
+
+#soi {
+  background-color: rgb(66, 58, 58);
+  border: 5px solid darkcyan;
+  border-radius: 5rem;
+}
+
+.media_link {
+  border: 2px solid rgb(0, 223, 197);
+  font-family: "Times New Roman", Times, serif;
+}
+#bar {
+  background-color: darkcyan;
+}
+span {
+  color: white;
+}
+
+#skills {
+  background-color: rgb(66, 58, 58);
+  border-radius: 5rem;
+  border: 5px solid darkcyan;
+}
+
+#projects {
+  background-color: rgb(66, 58, 58);
+  border-radius: 5rem;
+  border: 5px solid darkcyan;
+}
+span {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+#nan {
+  position: sticky;
+  top: 0px;
+}
+#text {
+  color: rgb(0, 223, 197);
+}
+#boost-icon {
+  color: black;
+  font-size: 5rem;
+}
+#services {
+  background-color: rgb(66, 58, 58);
+  border: 5px solid darkcyan;
+  border-radius: 5rem;
+}
+#serv-data {
+  background-color: rgb(66, 58, 58);
+  border: none;
+  color: black;
+}
+#bt {
+  color: black;
+}
+#bt:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}

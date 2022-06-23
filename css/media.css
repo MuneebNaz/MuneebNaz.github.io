@@ -1,0 +1,28 @@
+@media screen and (max-width: 575px) {
+  * {
+    margin: 0px;
+    padding: 0px;
+  }
+  body {
+    background-color: black;
+  }
+  span {
+    font-size: 25px;
+  }
+  h2 {
+    font-size: 3rem;
+  }
+  #nav-brand {
+    font-size: 30px;
+  }
+  #nav-btn {
+    margin-top: 10px;
+  }
+  #contact-me {
+    font-size: 30px;
+  }
+  .card {
+    height: 500px;
+    width: 100%;
+  }
+}
