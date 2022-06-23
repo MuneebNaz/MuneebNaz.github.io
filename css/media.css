@@ -36,5 +36,8 @@
    text-align:center;
    margin-top:50px;
  }
-
+#about-img{
+    height: 400px;
+    width: 99%;
+  }
 }
