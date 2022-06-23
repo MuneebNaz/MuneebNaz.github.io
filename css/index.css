@@ -35,7 +35,8 @@ h2 {
   border-radius: 30%;
   outline: 10px solid rgb(0, 223, 197);
   border: 5px solid black;
-  
+    height: 325px;
+    width: 350px;
 }
 #about-me {
   background-color: darkcyan;
