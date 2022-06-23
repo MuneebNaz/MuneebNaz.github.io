@@ -29,6 +29,7 @@
     height: 200px !important;
   }
   .header-text{
-    text-align: center;
-    margin-top: 50px;
+   text-align:center;
+   margin-top:50px;
+ }
 }
