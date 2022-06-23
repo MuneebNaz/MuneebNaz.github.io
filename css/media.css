@@ -6,6 +6,10 @@
   body {
     background-color: black;
   }
+ .img-1{
+    height: 400px;
+    width:70% auto;
+  }
   span {
     font-size: 25px;
   }
