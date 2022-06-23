@@ -25,7 +25,10 @@
     height: 500px;
     width: 100%;
   }
- #serv-data {
-  height: 200px
- }
+ #serv-data{
+    height: 200px !important;
+  }
+  .header-text{
+    text-align: center;
+    margin-top: 50px;
 }
